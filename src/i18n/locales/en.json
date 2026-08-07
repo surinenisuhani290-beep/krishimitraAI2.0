@@ -1,15 +1,1 @@
-{
-  "demo_mode": "DEMO MODE",
-  "channels_demo_title": "Channels Demo",
-  "send_message": "Send message",
-  "krishi_seva": "Krishi Seva",
-  "women_farmer_support": "Women Farmer & SHG",
-  "my_farm": "My Farm",
-  "expert_list": "Find an Expert",
-  "request_help": "Request Help",
-  "submit_request": "Submit Request",
-  "schemes": "Schemes",
-  "shg": "Self-Help Groups",
-  "fpo": "Women-led FPOs",
-  "help": "Help"
-}
+{"demo_mode":"DEMO MODE","channels_demo_title":"Channels Demo","send_message":"Send message","krishi_seva":"Krishi Seva","women_farmer_support":"Women Farmer & SHG","my_farm":"My Farm","expert_list":"Find an Expert","request_help":"Request Help","submit_request":"Submit Request","schemes":"Schemes","shg":"Self-Help Groups","fpo":"Women-led FPOs","help":"Help"}
